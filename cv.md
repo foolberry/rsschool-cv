@@ -1,17 +1,19 @@
-# Poznyak Dmitri      
-<img src="./cv-foolberry.jpg" width=30%></img>
+# Poznyak Dmitri
+
+<img src="./cv-foolberry.jpg" alt="Photo Poznyak Dmitri" width=30%>
+
 ## INDUSTRIAL ENGINEER
 
 
 ### CONTACT
 
-Tel.: +375 25 9973984
+**Tel.:** +375 25 9973984
 
-E-mail: poznyak.dmitri@gmail.com
+**E-mail:** poznyak.dmitri@gmail.com
 
-GitHub: foolberry
+**GitHub:** foolberry
 
-Discord: foolberry
+**Discord:** foolberry
 
 ### ABOUT ME
 
@@ -19,22 +21,22 @@ I'm a proficient industrial engineer with 14 years of experience in the field of
 
 ### EDUCATION
 
-Belarusian National Technical Univestity
+**Belarusian National Technical Univestity**
 
 Power Engeneering faculty
 
-Bacholor's degree in Process automation speciality
+- Bacholor's degree in Process automation speciality
 
-Master's degree in Power energy
+- Master's degree in Power energy
 
 ### WORK EXPERIENCE
 
 RUE "BELNIPIENERGOPROM" | 2009 - present
 
-Design engineer, software engineer
+**Design engineer, software engineer**
 (design and commissioning)
 
-September 2009 - October 2012 - work in the department of instrumentation and automation.
+<u>September 2009 - October 2012</u> - work in the department of instrumentation and automation
 
 Responsibilities:
 - designing automation schemes for power plants in AutoCad
@@ -45,7 +47,8 @@ Responsibilities:
 - wiring diagrams for instrumentation cabinets
 - assignment to the plant for the manufacture of instrumentation panels
 
-October 2012 - present - work in the APCS department.
+<u>October 2012 - present</u> - work in the APCS department
+
 Responsibilities:
 - design in terms of automation of technological processes (controller cabinets, server cabinets, workstations, industrial network)
 - controller programming
@@ -53,7 +56,7 @@ Responsibilities:
 
 Experience in commissioning work with PLC Omron, PLC Siemens, PLC ABB, SCADA Wonderware Intouch, SCADA iFix, SCADA Freelance.
 
-Experience in project work with PLC Omron, PLC Siemens, PLC Regul, Schneider Electric, Rittal, Phoenix Contact, Eltek, Socomec.
+Experience in project (design) work with PLC Omron, PLC Siemens, PLC Regul, Schneider Electric, Rittal, Phoenix Contact, Eltek, Socomec.
 
 Programs and development environment: ePLAN, AutoCad, MS Office, VBA, CX-One, Step7, TIA Portal, Freelance.
 
@@ -61,6 +64,6 @@ Programs and development environment: ePLAN, AutoCad, MS Office, VBA, CX-One, St
 I have basic knowleadge of HTML, CSS and JS (self-study)
 
 ### LANGUAGES
-English - B1
-Belarusian - native
-Russian - native
+- English - B1
+- Belarusian - native
+- Russian - native
