@@ -1,5 +1,5 @@
 # Poznyak Dmitri      
-![myPhoto](/cv-foolberry.jpg "CV Poznyak Dmitri"){width=25%}
+<img src="./cv-foolberry.jpg" width=30%></img>
 ## INDUSTRIAL ENGINEER
 
 
