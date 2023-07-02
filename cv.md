@@ -1,4 +1,5 @@
 # Poznyak Dmitri      
+![myPhoto](/cv-foolberry.jpg "CV Poznyak Dmitri")
 ## INDUSTRIAL ENGINEER
 
 
