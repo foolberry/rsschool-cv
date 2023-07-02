@@ -1,6 +1,6 @@
 # Poznyak Dmitri
 
-<img src="./cv-foolberry.jpg" alt="Photo Poznyak Dmitri" width=30%>
+<img src="https://foolberry.github.io/rsschool-cv/cv-foolberry.jpg" alt="Photo Poznyak Dmitri" width=30%>
 
 ## INDUSTRIAL ENGINEER
 
