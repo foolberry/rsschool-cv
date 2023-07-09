@@ -1,0 +1,58 @@
+html{
+    scroll-behavior: smooth;
+}
+* {
+    box-sizing: border-box;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.header {
+    border: 1px solid rgb(213, 212, 212); 
+    background-color: rgb(213, 212, 212);  
+}
+.main {
+    border: 1px;
+}
+.footer {
+    border: 1px solid rgb(213, 212, 212); 
+    background-color: rgb(213, 212, 212); 
+}
+.text-decoration-none {
+    text-decoration: none;
+}
+.nav-list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: left;
+
+}
+.nav-link {
+    text-decoration: none;
+    padding: 20px;
+    font-size: 18px;
+    color: black;
+}
+img {
+    width: 12%;
+    border-radius: 30px;
+}
+.rss {
+    width: 121px;
+    height: 45px;
+    background-image: url("./assets/svg/rs_school_js.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  .footer-container { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .footer a {
+  text-decoration: none;
+  color: black;
+  }
