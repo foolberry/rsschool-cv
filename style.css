@@ -4,11 +4,13 @@ html{
 * {
     box-sizing: border-box;
 }
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
 .header {
     border: 1px solid rgb(195, 194, 194);
-    background-color: rgb(195, 194, 194);
-    
-   
+    background-color: rgb(195, 194, 194);  
 }
 .main {
     border: 1px;
@@ -32,4 +34,8 @@ html{
     padding: 20px;
     font-size: 18px;
     color: black;
+}
+img {
+    width: 12%;
+    border-radius: 30px;
 }
