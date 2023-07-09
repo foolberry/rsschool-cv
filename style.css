@@ -1,0 +1,35 @@
+html{
+    scroll-behavior: smooth;
+}
+* {
+    box-sizing: border-box;
+}
+.header {
+    border: 1px solid rgb(195, 194, 194);
+    background-color: rgb(195, 194, 194);
+    
+   
+}
+.main {
+    border: 1px;
+}
+.footer {
+    border: 1px solid green
+}
+.text-decoration-none {
+    text-decoration: none;
+}
+.nav-list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: left;
+
+}
+.nav-link {
+    text-decoration: none;
+    padding: 20px;
+    font-size: 18px;
+    color: black;
+}
